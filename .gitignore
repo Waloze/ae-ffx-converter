@@ -1,0 +1,13 @@
+# compiled files
+*.o
+*.obj
+*.exe
+*.out
+
+# build folders
+build/
+bin/
+
+# misc
+*.log
+*.rc
